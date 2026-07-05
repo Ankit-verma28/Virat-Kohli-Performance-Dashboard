@@ -38,4 +38,4 @@ This project helped me improve my Power BI skills in data cleaning, DAX, dashboa
 
 ---
 
-**Note:** This project was completed as part of my Data Analyst training.
+**Note:**This dashboard was developed during my Data Analyst training to improve my Power BI and data visualization skills.
